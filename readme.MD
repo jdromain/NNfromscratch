@@ -1,1 +1,1 @@
-*This repo consists of a neural network built from scratch in an attempt to gai a better understanding of the inner workings of a neural network. 
+*This repo consists of a neural network built from scratch in an attempt to gai a better understanding of the inner workings of a neural network.*
